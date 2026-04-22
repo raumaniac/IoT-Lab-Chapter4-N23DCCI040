@@ -1,5 +1,3 @@
-# IoT-Lab-Chapter4-N23DCCI040
-Bài tập IoT Chapter 4 — QEMU + Wokwi + Sense HAT
 # IoT Lab — Chapter 4: Raspberry Pi with Python
 
 **Họ tên:** Nguyễn Trần Trung Lĩnh
